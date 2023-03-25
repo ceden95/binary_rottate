@@ -1,0 +1,11 @@
+
+type in the length to compare in the string: 
+type in index 1: 
+type index 2: 
+write a sentence: 
+
+the string you typed is: good job! good job! 
+the length you chose to copmare is: 10
+from index: 1
+and from index: 11
+the answer is: 0, which means sections are equal

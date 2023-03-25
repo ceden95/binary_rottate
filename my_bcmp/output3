@@ -1,0 +1,12 @@
+
+type in the length to compare in the string: 
+type in index 1: 
+type index 2: 
+write a sentence: 
+
+the string you typed is: 123451234
+the length you chose to copmare is: 5
+from index: 6
+and from index: 1
+
+your compared section is out of your string limit. next time make sure your length to compare from the index you chose is in the string boubderies.
