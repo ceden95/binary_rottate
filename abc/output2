@@ -1,0 +1,4 @@
+please enter a sequence of letters so we can return you the shortened version: 
+str BEFORE change JKLMNaoExXYZxyz{QRST
+
+str AFTER change J-NaoExX-Zx-z{Q-T

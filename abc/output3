@@ -1,0 +1,4 @@
+please enter a sequence of letters so we can return you the shortened version: 
+str BEFORE change dabcefLMNOpQrstuv567zyx
+
+str AFTER change da-cefL-OpQr-v567zyx

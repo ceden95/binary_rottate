@@ -1,0 +1,4 @@
+please enter a sequence of letters so we can return you the shortened version: 
+str BEFORE change abcdeABCDE123ABCDEFGkdjfABC1
+
+str AFTER change a-eA-E123A-GkdjfA-C1
